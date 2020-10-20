@@ -12,7 +12,7 @@
     <div class="Box1">
         
         <header>
-
+<img src="https://raw.githubusercontent.com/Mcjokki/Bing.watching/main/supernatural-logo.jpg" alt="Logo for supernatural">
         </header>
     
         <nav>
