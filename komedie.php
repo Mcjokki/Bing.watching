@@ -8,13 +8,11 @@
 
     <style>
      
-        
-
-
-    </style>
+         </style>
 
 </head>
-<body>
+
+    <body>
 
 <div class="conteiner2">
 
