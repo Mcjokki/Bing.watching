@@ -16,9 +16,9 @@
         </header>
     
         <nav>
-            <a href="komiserier/komiserie.html">Komiserie</a>
-            <a href="komiserier/Action.html">Action</a>
-            <a href="komiserier/Drama.html">Drama</a>
+            <a href="komiserie.html">Komiserie</a>
+            <a href="Action.html">Action</a>
+            <a href="Drama.html">Drama</a>
          
         </nav>
     
