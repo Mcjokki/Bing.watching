@@ -1,2 +1,2 @@
 <?php
-include_once ("action.html"); ?>
+include_once ("Action.html"); ?>
