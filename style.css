@@ -4,7 +4,7 @@ html {
 
 body {
     background-color: #000000;
-    background-image: url(bilder/couch_tv.jpg)
+    background-image: url(bilder/couch_tv.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
